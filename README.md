@@ -9,6 +9,7 @@
 - Java, Eclipse  
 - HTML, CSS, JavaScript  
 - Git & GitHub
+- Soon: React native
 
 📩 [Contact me](mailto:samueldavidmolina2007@gmail.com)
 
