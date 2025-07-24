@@ -1,16 +1,16 @@
-## Hi there 👋
+## Hi there i'm Samuel👋
 
-<!--
-**Sam-DevOps0/Sam-DevOps0** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Software Development Technologist  
+⚙️ Passionate about backend and application development  
+🚀 Self-taught student aiming to become a Backend Developer and future Senior
 
-Here are some ideas to get you started:
+🛠️ Tech Stack:  
+- C#, .NET, SQL Server  
+- Java, Eclipse  
+- HTML, CSS, JavaScript  
+- Git & GitHub
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+📩 [Contact me](mailto:samueldavidmolina2007@gmail.com)
+
+📚 Currently studying at Politécnico Internacional 🇨🇴  
+🌍 Looking for international opportunities to study and grow professionally
