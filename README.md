@@ -9,7 +9,7 @@
 - Java, Eclipse  
 - HTML, CSS, JavaScript  
 - Git & GitHub
-- Soon: React native
+- Learning Kotlin with Spring Boot
 
 📩 [Contact me](mailto:samueldavidmolina2007@gmail.com)
 
